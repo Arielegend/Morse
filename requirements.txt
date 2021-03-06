@@ -1,0 +1,11 @@
+click==7.1.2
+comtypes==1.1.8
+Flask==1.1.2
+itsdangerous==1.1.0
+Jinja2==2.11.3
+MarkupSafe==1.1.1
+playsound==1.2.2
+pypiwin32==223
+pyttsx3==2.90
+pywin32==300
+Werkzeug==1.0.1
