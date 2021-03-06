@@ -1,8 +1,8 @@
 ## Morse service
 
 ### Installation
-* git clone 
-* cd 
+* git clone https://github.com/Arielegend/Morse.git
+* cd Morse
 * python3 -m venv venv
 * source venv/bin/activate
 * pip install .
