@@ -1,5 +1,12 @@
 ## Morse service
 
+At morse service, we set up a Flask server, listening at port 8000. 
+Service allowing you:
+* Send messages for encryption, and play them
+* Modify different sounds
+* Get log of successful plays.
+
+
 ### Installation
 * git clone https://github.com/Arielegend/Morse.git
 * cd Morse
